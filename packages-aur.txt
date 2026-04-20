@@ -1,0 +1,11 @@
+android-studio
+balena-etcher
+brave-bin
+debtap
+jetbrains-toolbox
+lotion
+remmina-plugin-rdesktop
+slack-desktop
+steamcmd
+steamcmd-debug
+webtorrent-desktop-bin
